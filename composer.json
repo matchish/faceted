@@ -7,7 +7,7 @@
         "scout",
         "elasticsearch",
         "extended",
-        "faceted",
+        "faceted"
     ],
     "license": "MIT",
     "authors": [
